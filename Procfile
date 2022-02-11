@@ -1,1 +1,1 @@
-run: python3 PC_Miner.py
+run: python PC_Miner.py
